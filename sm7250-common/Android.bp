@@ -94,6 +94,7 @@ android_app_import {
 	owner: "xiaomi",
 	apk: "proprietary/vendor/app/com.qualcomm.qti.gpudrivers.lito.api30/com.qualcomm.qti.gpudrivers.lito.api30.apk",
 	presigned: true,
+	preprocessed: true,
 	dex_preopt: {
 		enabled: false,
 	},
